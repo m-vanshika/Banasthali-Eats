@@ -6,4 +6,28 @@
     android:layout_height="match_parent"
     tools:context=".FirstAct">
 
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="toM"
+        android:text="Mukteshwari"
+        tools:layout_editor_absoluteX="110dp"
+        tools:layout_editor_absoluteY="142dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Shanu's"
+        tools:layout_editor_absoluteX="136dp"
+        tools:layout_editor_absoluteY="275dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Annapurna"
+        tools:layout_editor_absoluteX="110dp"
+        tools:layout_editor_absoluteY="382dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

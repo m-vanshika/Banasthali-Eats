@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BanasthaliEats">
         <activity
+            android:name=".Mukteshwari"
+            android:exported="false" />
+        <activity
             android:name=".FirstAct"
             android:exported="false" />
         <activity
